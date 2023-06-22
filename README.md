@@ -1,5 +1,5 @@
 # OpenCV
-This repo contains practice example for beginners who are willing to learn OpenCV
+This repo contains practice example for beginners who are willing to learn OpenCV.
 
 
 <h3>Follow the steps to install OpenCV library on Ubuntu Linux</h3>
@@ -39,5 +39,7 @@ Installed successfully, check if it is installed as /usr/local/include/opencv4
 
 `cd /usr/local/include/ && ls`
 
-<b>opencv4<b>
+<b>opencv4</b>
 
+# CMakeLists.txt
+ CMakeLists build configuration file is in the root directory of this repo.
