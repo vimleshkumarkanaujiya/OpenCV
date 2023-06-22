@@ -43,3 +43,19 @@ Installed successfully, check if it is installed as /usr/local/include/opencv4
 
 # CMakeLists.txt
  CMakeLists build configuration file is in the root directory of this repo.
+
+# Run the project
+Run the project using the given commands.
+
+`cmake .`
+
+Run Makefile
+
+`make`
+
+Now the executable file is ready
+
+`.\ABC`
+
+It works fine.
+
