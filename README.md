@@ -10,18 +10,24 @@ This repo contains practice example for beginners who are willing to learn OpenC
 `sudo apt upgrade`
 
 #### Install the required dependencies.
-`sudo apt install build-essential cmake git libgtk-3-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev`
+
+## Compiler
+`sudo apt-get install build-essential`
+
+## Required
+
+`sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev`
+
+## Optional (But recommended)
+
+`sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev`
+
+## Optional
+`sudo apt-get install libjasper-dev libdc1394-22-dev`
 
 
-`sudo apt install python-all-dev python3-numpy libtbb2 libtbb-dev libvorbis-dev libxvidcore-dev`
-
-`sudo apt install libjpeg-dev libpng-dev libtiff5-dev libjasper-dev libdc1394-22-dev libeigen3-dev libtheora-dev`
-
-`sudo apt install libx264-dev sphinx-common libtbb-dev yasm libfaac-dev libopencore-amrnb-dev libopencore-amrwb-dev`
-
-`sudo apt install libopenexr-dev libgstreamer-plugins-base1.0-dev libavutil-dev libavfilter-dev libavresample-dev`
  
-Some Packages belong to repositories (Xenial and Focal) that are unknown to Ubuntu 22.04. So add the repository using <a href="https://www.google.com/search?q=Add+APT">Add APT</a>.
+Some packages belong to repositories (Xenial and Focal) that are unknown to Ubuntu 22.04. So add the repository using <a href="https://www.google.com/search?q=Add+APT">Add APT</a>.
 
 #### Clone the source from the official repository.
 `git clone https://github.com/opencv/opencv.git`
