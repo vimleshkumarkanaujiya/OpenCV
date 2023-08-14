@@ -16,7 +16,7 @@ This repo contains practice example for beginners who are willing to learn OpenC
 
 ## Required
 
-`sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev`
+`sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev / libswscale-dev`
 
 ## Optional (But recommended)
 
