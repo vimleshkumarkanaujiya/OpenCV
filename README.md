@@ -20,7 +20,7 @@ This repo contains practice example for beginners who are willing to learn OpenC
 
 ## Optional (But recommended)
 
-`sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev`
+`sudo apt-get install python3-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev`
 
 ## Optional
 `sudo apt-get install libjasper-dev libdc1394-22-dev`
