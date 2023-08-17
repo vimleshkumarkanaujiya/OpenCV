@@ -20,7 +20,7 @@ This repo contains practice example for beginners who are willing to learn OpenC
 
 ## Optional (But recommended)
 
-`sudo apt-get install python3-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev`
+`sudo apt-get install python3-dev python3-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev`
 
 ## Optional
 `sudo apt-get install libjasper-dev libdc1394-22-dev`
@@ -36,7 +36,7 @@ Some packages belong to repositories (Xenial and Focal) that are unknown to Ubun
 `mkdir -p build && cd build`
 
 #### Generate build scripts.
-`cmake ../opencv`
+`cmake ../../opencv`
 
 #### Build the source using cmake.
 `make -j4`
