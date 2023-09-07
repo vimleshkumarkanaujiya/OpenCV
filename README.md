@@ -36,7 +36,7 @@ Some packages belong to repositories (Xenial and Focal) that are unknown to Ubun
 `mkdir -p build && cd build`
 
 #### Generate build scripts.
-`cmake ../../opencv`
+`cmake ../opencv`
 
 #### Build the source using cmake.
 `make -j4`
